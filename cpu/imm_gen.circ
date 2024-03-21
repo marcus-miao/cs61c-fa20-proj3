@@ -507,7 +507,7 @@ end TCL_Generic;
       <a name="out_width" val="32"/>
     </comp>
     <comp lib="0" loc="(550,710)" name="Tunnel">
-      <a name="label" val="UB_IMM"/>
+      <a name="label" val="UJ_IMM"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(560,140)" name="Tunnel">
@@ -544,7 +544,7 @@ end TCL_Generic;
     </comp>
     <comp lib="0" loc="(710,230)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="UB_IMM"/>
+      <a name="label" val="UJ_IMM"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="0" loc="(820,150)" name="Tunnel">
