@@ -1116,7 +1116,7 @@ end TCL_Generic;
     </comp>
     <comp lib="0" loc="(900,1530)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="R_Type"/>
+      <a name="label" val="Arithmetic"/>
     </comp>
     <comp lib="0" loc="(900,1560)" name="Tunnel">
       <a name="facing" val="east"/>
