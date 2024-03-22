@@ -1,5 +1,3 @@
 # CS61CPU
 
-Look ma, I made a CPU! Here's what I did:
-
--
+- Functioning RV32 CPU designed on logisim-evolution
