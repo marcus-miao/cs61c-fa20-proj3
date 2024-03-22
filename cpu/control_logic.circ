@@ -262,7 +262,7 @@ end TCL_Generic;
     </comp>
     <comp lib="0" loc="(1270,1620)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="R_type"/>
+      <a name="label" val="R_Type"/>
     </comp>
     <comp lib="0" loc="(1270,1650)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1088,7 +1088,7 @@ end TCL_Generic;
     </comp>
     <comp lib="0" loc="(900,1530)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="R_type"/>
+      <a name="label" val="R_Type"/>
     </comp>
     <comp lib="0" loc="(900,1560)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1124,7 +1124,7 @@ end TCL_Generic;
     </comp>
     <comp lib="0" loc="(910,1670)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="R_type"/>
+      <a name="label" val="R_Type"/>
     </comp>
     <comp lib="0" loc="(910,1700)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1144,7 +1144,7 @@ end TCL_Generic;
     </comp>
     <comp lib="0" loc="(910,1840)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="R_type"/>
+      <a name="label" val="R_Type"/>
     </comp>
     <comp lib="0" loc="(910,1870)" name="Tunnel">
       <a name="facing" val="east"/>
